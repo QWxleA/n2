@@ -6,6 +6,8 @@ theme="gar"
 
 ignoreErrors = ["error-remote-getjson"]
 
+publishdir="docs"
+
 [params]
     exNumber = 25
     exText = "Years of Experienced"
