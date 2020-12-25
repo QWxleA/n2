@@ -1,0 +1,25 @@
+<div class="col-md-3 d-flex justify-content-end align-items-center">
+  <div class="social-media">
+    <p class="mb-0 d-flex">
+
+      {{ $permalink := $.Scratch.Get "Permalink" }}
+      {{ $title := $.Scratch.Get "Title" }}
+      {{ $author := $.Scratch.Get "Author" }}
+      {{ $tags := $.Scratch.Get "Tags" }}
+
+      {{ range .Site.Params.socialShare }}
+
+      {{ if eq . "facebook" }}
+      <a href="//www.facebook.com/sharer/sharer.php?u={{ $permalink }}" target="_blank" rel="noopener" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"><i class="sr-only">Facebook</i></span></a>
+      {{ else if eq . "twitter" }}
+      <a href="//twitter.com/share?text={{ $title }}&amp;url={{ $permalink }}" target="_blank" rel="noopener" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"><i class="sr-only">Twitter</i></span></a>
+      {{ else if eq . "instagram" }}
+      <a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"><i class="sr-only">Instagram</i></span></a>
+      {{ else if eq . "whatsapp" }}
+      <a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-dribbble"><i class="sr-only">Dribbble</i></span></a>
+      {{ end }}
+      {{ end }}
+
+    </p>
+  </div>
+</div>

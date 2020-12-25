@@ -1,0 +1,28 @@
+        <div class="wrap">
+        <div class="container">
+                <div class="row justify-content-between">
+                    <div class="col-md-3 d-flex align-items-center">
+                        <a class="navbar-brand" href="{{ "/" | relLangURL }}">{{ .Site.Title }}<span>.</span></a>
+                    </div>
+                    <div class="col-md-7">
+                        <div class="row">
+                            <div class="col">
+                                <div class="top-wrap d-flex">
+                                    <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-location-arrow"></span></div>
+                                    <div class="text"><span>Address</span><span>{{ $.Site.Params.address }}</span></div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="top-wrap d-flex">
+                                    <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-location-arrow"></span></div>
+                                    <div class="text"><span>Call us</span><span>>{{ $.Site.Params.phone }}</span></div>
+                                </div>
+                            </div>
+
+                            {{ partial "social" . }}
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>

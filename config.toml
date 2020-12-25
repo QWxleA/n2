@@ -1,0 +1,32 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+
+theme="gar"
+
+ignoreErrors = ["error-remote-getjson"]
+
+[params]
+    exNumber = 25
+    exText = "Years of Experienced"
+    prNumber = 2500
+    prText = "Project completed"
+    hcNumber = 1500
+    hcText = "Happy Customers"
+    awNumber = 30
+    awText = "Award Winning"
+
+    address = "adress 1,2,3"
+    phone = "+371 12345678"
+
+    #socialShare = ["twitter", "facebook", "whatsapp", "email"]
+
+[social]
+  facebook              = "example"
+  youtube               = ""
+  whatsapp              = "123456"
+#  instagram             = "example"
+  twitter               = "example"
+  skype                 = ""
+  telegram              = "example"
+  email                 = "example"
