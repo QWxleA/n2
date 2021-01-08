@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Дома on My New Hugo Site</title>
+    <title>Vittrans.lv</title>
     <link>https://qwxlea.github.io/n2/</link>
-    <description>Recent content in Дома on My New Hugo Site</description>
+    <description>Recent content on Vittrans.lv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://qwxlea.github.io/n2/index.xml" rel="self" type="application/rss+xml" />
@@ -35,6 +35,15 @@
       <guid>https://qwxlea.github.io/n2/transmissions/</guid>
       <description>Некоторые считают, что обслуживание трансмиссии –это лишь замена масла и фильтра в ней. Это не совсем так. В обслуживание входит комплекс работ, после которых ваша трансмиссия с большой долей вероятности, ещё должна определённое время хорошо поработать.
 Дело в том, что у трансмиссии, как и у любого другого механизма в автомобиле, есть определённый ресурс работы. И когда пробег автомобиля приближается к этой виртуальной критической точке (скажем 250 000км) очень сложно предугадать и уж тем более гарантировать, что после замены масла, трансмиссия пройдёт ещё свои следующие 50 000 км.</description>
+    </item>
+    
+    <item>
+      <title>О нас</title>
+      <link>https://qwxlea.github.io/n2/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://qwxlea.github.io/n2/about/</guid>
+      <description>Поэтому качественная диагностика, это не просто подключение какого-нибудь диагностического устройства, которое сейчас есть практически в каждом сервисе. Это глубокий анализ, на основании опыта, а также умения не только прочитать записанные в системе ошибки, но и знать какие параметры должны быть в разных составляющих систем управления, как коробкой передач, так и других систем. Также, очень часто необходима тестовая поездка, вместе с подключенным диагностическим прибором.</description>
     </item>
     
     <item>

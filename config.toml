@@ -5,6 +5,23 @@ theme="gar"
 ignoreErrors = ["error-remote-getjson"]
 publishdir="docs"
 
+defaultContentLanguage = "en"
+
+[languages]
+  [languages.lv]
+    title = "Vittrans.lv"
+    weight = 1
+  [languages.ru]
+    title = "Виттранс.lv"
+    weight = 2
+  [languages.en]
+    title = "Vittrans.lv"
+    weight = 1
+  [languages.est]
+    title = "Vittrans.lv"
+    weight = 1
+
+
 [params]
     exNumber = 25
     exText = "Years of Experienced"
@@ -15,6 +32,7 @@ publishdir="docs"
     awNumber = 30
     awText = "Award Winning"
 
+    email = "info@vittrans.lv"
     address = "Krustpils iela 50a, Rīgā"
     phone = "+371 29485790"
     addressLink = "https://ul.waze.com/ul?place=EkNLcnVzdHBpbHMgaWVsYSA1MCwgTGF0Z2FsZXMgcHJpZWvFoXBpbHPEk3RhLCBSxKtnYSwgTFYtMTA1NywgTGF0dmlhIjASLgoUChIJm3_5OmzS7kYRQXaymzU9gf0QMioUChIJvejiZw3S7kYRhQh_MB5kovU&ll=56.90550650%2C24.21599450&navigate=yes"
