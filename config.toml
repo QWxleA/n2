@@ -18,8 +18,8 @@ publishdir="docs"
     awNumber = 30
     awText = "Award Winning"
 
-    address = "adress 1,2,3"
-    phone = "+371 12345678"
+    address = "Krustpils iela 50a, Rīgā"
+    phone = "+371 29485790"
 
     #socialShare = ["twitter", "facebook", "whatsapp", "email"]
 

@@ -2,8 +2,8 @@
   <div class="container">
     <div class="row justify-content-center pb-5 mb-3">
       <div class="col-md-7 heading-section text-center ftco-animate">
-        <span class="subheading">We offer Services</span>
-        <h2>Our car services</h2>
+        <span class="subheading">{{ .Params.serviceSubheading1 }}</span>
+        <h2>{{ .Params.serviceSubheading2 }}</h2>
       </div>
     </div>
     <div class="row">
@@ -13,7 +13,7 @@
             <span class="flaticon-car-service"></span>
           </div>
           <div class="media-body pl-3">
-            <h3 class="heading">Oil change</h3>
+            <h3 class="heading">{{ .Params.serviceHead1 }}</h3>
             <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
             <p><a href="#" class="btn-custom">Read more</a></p>
           </div>
@@ -23,7 +23,7 @@
             <span class="flaticon-tyre"></span>
           </div>
           <div class="media-body pl-3">
-            <h3 class="heading">Tire Change</h3>
+            <h3 class="heading">{{ .Params.serviceHead2 }}Tire Change</h3>
             <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
             <p><a href="#" class="btn-custom">Read more</a></p>
           </div>
@@ -36,7 +36,7 @@
             <span class="flaticon-battery"></span>
           </div>
           <div class="media-body pl-3">
-            <h3 class="heading">Batteries</h3>
+            <h3 class="heading">{{ .Params.serviceHead3 }}Batteries</h3>
             <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
             <p><a href="#" class="btn-custom">Read more</a></p>
           </div>
@@ -46,7 +46,7 @@
             <span class="flaticon-car-engine"></span>
           </div>
           <div class="media-body pl-3">
-            <h3 class="heading">Engine Repair</h3>
+            <h3 class="heading">{{ .Params.serviceHead4 }}Engine Repair</h3>
             <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
             <p><a href="#" class="btn-custom">Read more</a></p>
           </div>
@@ -59,7 +59,7 @@
             <span class="flaticon-tow-truck"></span>
           </div>
           <div class="media-body pl-3">
-            <h3 class="heading">Tow Truck</h3>
+            <h3 class="heading">{{ .Params.serviceHead5 }}Tow Truck</h3>
             <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
             <p><a href="#" class="btn-custom">Read more</a></p>
           </div>
@@ -69,7 +69,7 @@
             <span class="flaticon-repair"></span>
           </div>
           <div class="media-body pl-3">
-            <h3 class="heading">Car Maintenance</h3>
+            <h3 class="heading">{{ .Params.serviceHead6 }}Car Maintenance</h3>
             <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
             <p><a href="#" class="btn-custom">Read more</a></p>
           </div>

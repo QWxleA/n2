@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on My New Hugo Site</title>
+    <title>Дома on My New Hugo Site</title>
     <link>https://qwxlea.github.io/n2/</link>
-    <description>Recent content in Home on My New Hugo Site</description>
+    <description>Recent content in Дома on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://qwxlea.github.io/n2/index.xml" rel="self" type="application/rss+xml" />
@@ -13,22 +13,28 @@
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://qwxlea.github.io/n2/services/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
+      <description>Как известно из медицины, именно правильная диагностика заболевания является ключом к выздоровлению пациента. В ремонте автоматической трансмиссии, именно правильная и профессиональная диагностика, помогает точно выявить источник проблемы и решить её.
+Довольно часто к нам обращаются клиенты с жалобой на неправильную работу коробки передач. Насмотревшись видео в интернете, либо наслушавшись «диванных» специалистов, такие клиенты делятся на 2 группы. Одни считают, что нужно срочно поменять масло и что-то на компьютере запрограммировать, другие сразу готовы к большим затратам, уверенные, что необходим серьёзный ремонт.</description>
     </item>
     
     <item>
-      <title>About Hugo</title>
-      <link>https://qwxlea.github.io/n2/about/</link>
+      <title>Диагностика</title>
+      <link>https://qwxlea.github.io/n2/diagnostics/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://qwxlea.github.io/n2/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+      <guid>https://qwxlea.github.io/n2/diagnostics/</guid>
+      <description>Как известно из медицины, именно правильная диагностика заболевания является ключом к выздоровлению пациента. В ремонте автоматической трансмиссии, именно правильная и профессиональная диагностика, помогает точно выявить источник проблемы и решить её.
+Довольно часто к нам обращаются клиенты с жалобой на неправильную работу коробки передач. Насмотревшись видео в интернете, либо наслушавшись «диванных» специалистов, такие клиенты делятся на 2 группы. Одни считают, что нужно срочно поменять масло и что-то на компьютере запрограммировать, другие сразу готовы к большим затратам, уверенные, что необходим серьёзный ремонт.</description>
+    </item>
+    
+    <item>
+      <title>Обслуживание трансмиссии</title>
+      <link>https://qwxlea.github.io/n2/transmissions/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://qwxlea.github.io/n2/transmissions/</guid>
+      <description>Некоторые считают, что обслуживание трансмиссии –это лишь замена масла и фильтра в ней. Это не совсем так. В обслуживание входит комплекс работ, после которых ваша трансмиссия с большой долей вероятности, ещё должна определённое время хорошо поработать.
+Дело в том, что у трансмиссии, как и у любого другого механизма в автомобиле, есть определённый ресурс работы. И когда пробег автомобиля приближается к этой виртуальной критической точке (скажем 250 000км) очень сложно предугадать и уж тем более гарантировать, что после замены масла, трансмиссия пройдёт ещё свои следующие 50 000 км.</description>
     </item>
     
     <item>

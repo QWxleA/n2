@@ -3,28 +3,27 @@ title = "Services"
 layout = "services"
 description = "Hugo, the world’s fastest framework for building websites"
 date = "2019-02-28"
-aliases = ["about-us","about-hugo","contact"]
-author = "Hugo Authors"
+aliases = ["diagnostics-ru"]
+author = "fixme"
 menu = "main"
-name = "Services"
+name = "Диагностика"
 weight = 5
+serviceSubheading1 = "111"
+serviceSubheading2 = "222"
+serviceHead1 = "aaa"
+serviceHead2 = "sss"
+serviceHead3 = "ccc"
+serviceHead4 = "ggg"
+serviceHead5 = "yyy"
+serviceHead6 = "vvv"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Как известно из медицины, именно правильная диагностика заболевания является ключом к выздоровлению пациента. В ремонте автоматической трансмиссии, именно правильная и профессиональная диагностика,  помогает точно выявить источник проблемы и решить её.
 
-Hugo makes use of a variety of open source projects including:
+Довольно часто к нам обращаются клиенты с жалобой на неправильную работу коробки передач. Насмотревшись видео в интернете, либо наслушавшись «диванных» специалистов, такие клиенты делятся на 2 группы. Одни считают, что нужно срочно поменять масло и что-то на компьютере запрограммировать, другие сразу готовы к большим затратам, уверенные, что необходим серьёзный ремонт.
 
+Вот для чего необходима профессиональная диагностика. Нередко после неё выясняется, что сама трансмиссия ещё вполне исправна, а сломался, например какой-нибудь датчик, или «слетели» электронные настройки коробки передач. Или проблема может быть вообще не в трансмиссии, а например, в системе управлении двигателем, или ABS, и многое другое. В современных машинах, довольно часто выходят из строя электронные блоки управления, и их ремонт в разы стоит дешевле, чем ремонт самой трансмиссии. Поэтому не расстраивайтесь сильно сразу, если вдруг ваша коробка внезапно начала «чудить». В нашей практике был случай, когда из-за неисправности 2-ух свечей накала в дизельном двигателе, трансмиссия становилась в аварийный режим.
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Поэтому качественная диагностика, это не просто подключение какого-нибудь диагностического устройства, которое сейчас есть практически в каждом сервисе. Это глубокий анализ, на основании опыта, а также умения не только прочитать записанные в системе ошибки, но и знать какие параметры должны быть в разных составляющих систем управления, как коробкой передач, так и других систем. Также, очень часто необходима тестовая поездка, вместе с подключенным диагностическим прибором.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Нередко правильно сделанная диагностика, помогает избежать дорогостоящих ремонтов в будущем. Но бывает, что и кажущиеся на первый взгляд не значительные отклонения в работе трансмиссии, указывают на необходимость серьёзного ремонта. В любом случае после профессиональной диагностики, вы точно будете знать, требуется ли серьёзный ремонт или нет. Мы никогда не скажем, что требуется капитальный ремонт , если это не так.
