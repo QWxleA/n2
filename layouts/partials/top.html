@@ -8,14 +8,14 @@
                         <div class="row">
                             <div class="col">
                                 <div class="top-wrap d-flex">
-                                    <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-location-arrow"></span></div>
-                                    <div class="text"><span>Address</span><span>{{ $.Site.Params.address }}</span></div>
+                                    <a href="{{ $.Site.Params.addressLink }}" target="_blank"><div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-location-arrow"></span></div></a>
+                                    <a href="{{ $.Site.Params.addressLink }}" target="_blank"><div class="text"><span>Address@@</span><span>{{ $.Site.Params.address }}</span></div></a>
                                 </div>
                             </div>
                             <div class="col">
                                 <div class="top-wrap d-flex">
-                                    <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-location-arrow"></span></div>
-                                    <div class="text"><span>Call us</span><span>>{{ $.Site.Params.phone }}</span></div>
+                                    <a href="tel:{{ $.Site.Params.phone }}"><div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-location-arrow"></span></div></a>
+                                    <a href="tel:{{ $.Site.Params.phone }}"><div class="text"><span>Call us</span><span>>{{ $.Site.Params.phone }}</span></div></a>
                                 </div>
                             </div>
 
