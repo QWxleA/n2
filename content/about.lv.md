@@ -1,5 +1,5 @@
 +++
-title = "О нас"
+title = "Par Mums"
 subtitle = "Тоже о нас"
 layout = "about"
 description = "Hugo, the world’s fastest framework for building websites"
@@ -7,7 +7,7 @@ date = "2019-02-28"
 aliases = ["diagnostics-ru"]
 author = "fixme"
 menu = "main"
-name = "О нас"
+name = "Par Mums"
 weight = 15
 subheading = "Welcome to Autorepair"
 subsubheading = "We help more than 45 years serving customer car 22"

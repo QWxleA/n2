@@ -77,6 +77,31 @@
   </url>
   
   <url>
+    <loc>https://qwxlea.github.io/n2/est/transmissions/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="lv"
+                href="https://qwxlea.github.io/n2/lv/transmissions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://qwxlea.github.io/n2/ru/transmissions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qwxlea.github.io/n2/transmissions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="est"
+                href="https://qwxlea.github.io/n2/est/transmissions/"
+                />
+  </url>
+  
+  <url>
     <loc>https://qwxlea.github.io/n2/est/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
