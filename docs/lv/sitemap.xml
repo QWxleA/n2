@@ -3,8 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://qwxlea.github.io/n2/lv/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://qwxlea.github.io/n2/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qwxlea.github.io/n2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="est"
+                href="https://qwxlea.github.io/n2/est/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="lv"
+                href="https://qwxlea.github.io/n2/lv/"
+                />
+  </url>
+  
+  <url>
     <loc>https://qwxlea.github.io/n2/lv/services/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://qwxlea.github.io/n2/ru/services/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,11 +43,6 @@
                 rel="alternate"
                 hreflang="est"
                 href="https://qwxlea.github.io/n2/est/services/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://qwxlea.github.io/n2/ru/services/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -32,6 +56,11 @@
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://qwxlea.github.io/n2/ru/diagnostics/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://qwxlea.github.io/n2/diagnostics/"
                 />
@@ -39,11 +68,6 @@
                 rel="alternate"
                 hreflang="est"
                 href="https://qwxlea.github.io/n2/est/diagnostics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://qwxlea.github.io/n2/ru/diagnostics/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -57,6 +81,11 @@
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://qwxlea.github.io/n2/ru/about/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://qwxlea.github.io/n2/about/"
                 />
@@ -64,11 +93,6 @@
                 rel="alternate"
                 hreflang="est"
                 href="https://qwxlea.github.io/n2/est/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://qwxlea.github.io/n2/ru/about/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -81,6 +105,11 @@
     <loc>https://qwxlea.github.io/n2/lv/categories/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://qwxlea.github.io/n2/ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://qwxlea.github.io/n2/categories/"
                 />
@@ -88,11 +117,6 @@
                 rel="alternate"
                 hreflang="est"
                 href="https://qwxlea.github.io/n2/est/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://qwxlea.github.io/n2/ru/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -105,6 +129,11 @@
     <loc>https://qwxlea.github.io/n2/lv/tags/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://qwxlea.github.io/n2/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://qwxlea.github.io/n2/tags/"
                 />
@@ -115,37 +144,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://qwxlea.github.io/n2/ru/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="lv"
                 href="https://qwxlea.github.io/n2/lv/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://qwxlea.github.io/n2/lv/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://qwxlea.github.io/n2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="est"
-                href="https://qwxlea.github.io/n2/est/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://qwxlea.github.io/n2/ru/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="lv"
-                href="https://qwxlea.github.io/n2/lv/"
                 />
   </url>
   

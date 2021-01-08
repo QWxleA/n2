@@ -16,10 +16,10 @@ defaultContentLanguage = "en"
     weight = 2
   [languages.en]
     title = "Vittrans.lv"
-    weight = 1
+    weight = 3
   [languages.est]
     title = "Vittrans.lv"
-    weight = 1
+    weight = 4
 
 
 [params]

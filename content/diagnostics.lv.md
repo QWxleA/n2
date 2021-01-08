@@ -1,17 +1,16 @@
 +++
-title = "Диагностика"
+title = "Diagnostika"
 layout = "simple"
 date = "2014-04-09"
 menu = "main"
-name = "Diagnosticss"
+name = "Diagnostika"
 weight = 10
 +++
-Как известно из медицины, именно правильная диагностика заболевания является ключом к выздоровлению пациента. В ремонте автоматической трансмиссии, именно правильная и профессиональная диагностика,  помогает точно выявить источник проблемы и решить её.
+Kā zināms no medicīnas, tieši pareiza slimības diagnosticēšana ir ļoti būtisks priekšnoteikums pacienta sekmīgai ārstēšanai. Līdzīgi ir arī ar automašīnas automātiskās ātrumkārbas remontu — tieši pareiza un profesionāla diagnosticēšana palīdz noteikt problēmas cēloni un to sekmīgi novērst.
 
-Довольно часто к нам обращаются клиенты с жалобой на неправильную работу коробки передач. Насмотревшись видео в интернете, либо наслушавшись «диванных» специалистов, такие клиенты делятся на 2 группы. Одни считают, что нужно срочно поменять масло и что-то на компьютере запрограммировать, другие сразу готовы к большим затратам, уверенные, что необходим серьёзный ремонт.
+Pie mums diezgan bieži griežas klienti ar sūdzībām par problēmām ātrumkārbas darbībā. Tos klientus, kas internetā ir pētījuši dažādus video vai meklējuši padomus pie ”dīvāna speciālistiem”, var iedalīt 2 grupās. Vieni uzskata, ka steidzami nepieciešams mainīt transmisijas eļļu vai kaut ko ieprogrammēt datorā un viss būs kārtībā, bet citi uzreiz gatavi lieliem izdevumiem, jo ir pārliecināti, ka nepieciešams nopietns remonts.
 
-Вот для чего необходима профессиональная диагностика. Нередко после неё выясняется, что сама трансмиссия ещё вполне исправна, а сломался, например какой-нибудь датчик, или «слетели» электронные настройки коробки передач. Или проблема может быть вообще не в трансмиссии, а например, в системе управлении двигателем, или ABS, и многое другое. В современных машинах, довольно часто выходят из строя электронные блоки управления, и их ремонт в разы стоит дешевле, чем ремонт самой трансмиссии. Поэтому не расстраивайтесь сильно сразу, если вдруг ваша коробка внезапно начала «чудить». В нашей практике был случай, когда из-за неисправности 2-ух свечей накала в дизельном двигателе, трансмиссия становилась в аварийный режим.
+Lūk, kāpēc ir nepieciešama profesionāla diagnostika. Nereti pēc diagnostikas izrādās, ka pašai ātrumkārbai nav defektu, bet ir salūzis kāds no sensoriem vai ir ”nobrukuši” ātrumkārbas elektroniskie iestatījumi. Vai arī problēma ir pavisam citur, piemēram, dzinēja vadības sistēmā, ABS vai kaut kur citur. Mūsdienīgās automašīnās salīdzinoši bieži rodas problēmas ar vadības iekārtu elektroniskajiem blokiem, un to remonts ir daudz reižu lētāks nekā pašas ātrumkārbas remonts. Tāpēc nesatraucieties, ja Jūsu ātrumkārba negaidīti sāk ” jocīgi uzvesties”. Mūsu praksē ir bijis gadījums, ka ātrumkārbai ir ieslēdzies avārijas režīms vienkārši dīzeļa dzinēja 2 sveču defektu dēļ.
+Tāpēc kvalitatīva diagnostika nenozīmē vienkārši kādas diagnosticējošas iekārtas pieslēgšanu, kas tagad pieejama jebkurā autoservisā. Ir nepieciešama padziļināta analīze, kas balstās vairāk nekā tikai uz prasmi nolasīt sistēmā reģistrētās kļūdas. Ir nepieciešama arī pieredze, kā arī zināšanas par to, kādiem ir jābūt vadības sistēmas dažādo daļu, ātrumkārbas kā arī citu sistēmu parametriem. Tāpat ļoti bieži ir nepieciešams testa brauciens ar diagnosticējošas ierīces pieslēgšanu.
 
-Поэтому качественная диагностика, это не просто подключение какого-нибудь диагностического устройства, которое сейчас есть практически в каждом сервисе. Это глубокий анализ, на основании опыта, а также умения не только прочитать записанные в системе ошибки, но и знать какие параметры должны быть в разных составляющих систем управления, как коробкой передач, так и других систем. Также, очень часто необходима тестовая поездка, вместе с подключенным диагностическим прибором.
-
-Нередко правильно сделанная диагностика, помогает избежать дорогостоящих ремонтов в будущем. Но бывает, что и кажущиеся на первый взгляд не значительные отклонения в работе трансмиссии, указывают на необходимость серьёзного ремонта. В любом случае после профессиональной диагностики, вы точно будете знать, требуется ли серьёзный ремонт или нет. Мы никогда не скажем, что требуется капитальный ремонт , если это не так.
+Nav retums, kad pareizi veikta diagnostika palīdz izvairīties no dārgiem remontiem nākotnē. Bet gadās, ka pat šķietami nenozīmīgas novirzes no automātiskās kārbas normālās darbības norāda un nepieciešamību veikt nopietnu remontu. Jebkurā gadījumā pēc profesionālas diagnostikas Jūs tiešām zināsiet, vai ātrumkārbai ir nepieciešams nopietns remonts vai ne. Un mēs nekad Jūs nemaldināsim attiecībā uz remontu — mēs nemēģināsim Jums iestāstīt, ka nepieciešams nopietns remonts, ja tāds nebūs vajadzīgs.

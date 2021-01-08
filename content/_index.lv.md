@@ -1,0 +1,15 @@
++++
+title = "Majas"
+menu = "main"
+name = "Majas"
+weight = 1
+subheading = "Welcome to Autorepair"
+subsubheading = "We help more than 45 years serving customer car 22"
+intro = "Tālajā 1989. gadā, kad daudzu autovadītāju lielākais sapņu piepildījums bija Ford Sierra, Opel Ascona vai VW Golf2, kāds jaunietis nolēma patstāvīgi salabot sava mopēda dzinēju. Protams, pēc tam šo dzinēju iedarbināt tā arī neizdevās, bet tieši šī neveiksme jaunieti pamudināja izvēlēties savu nākamo profesiju. 1995. gadā viņš pabeidza mācības un kļuva par tehniķi-mehāniķi, bet šī jaunekļa vēlme pierādīt pašam sev, ka viņš var veikt vissarežģītākās pakāpes remontdarbus, ar laiku veicināja to, ka viņš izveidoja uzņēmumu, kas nu jau gandrīz 20 gadus veic vienu no svarīgākā automašīnas mehānisma – automātiskās ātrumkārbas - diagnostiku, remontdarbus un apkopi. Lūk šādi tapa uzņēmums VITTRANS!"
+tab1 = "Mūsu misija"
+tab1Content = "Mēs jau vairāk nekā 20 gadus veicam visu sarežģītības pakāpju un jebkuru automašīnu marku automātisko ātrumkārbu diagnostiku, apkopi un remontdarbus. Mēs to darām gan tad, ja mums tiek atvesta visa automašīna, gan tad, ja - tikai ātrumkārba. Mūsu lozungs: ”Mēs atdzīvināsim Jūsu ātrumkārbu!” Šo gadu laikā par to varēja pārliecināties vairāk nekā 25 000 klientu. Mūsu galvenais princips – godīgums. Mūsu darba vide atspoguļo mūsu attieksmi pret darbu."
+tab2 = "Mūsu redzējums"
+tab2Content = "SVT, DSG, POWERSHIFT, S-TRONIC pēc savas struktūras principiāli atšķiras no ”klasiskās” ātrumkārbas, tāpēc daudziem autoservisiem tas sagādā lielus sarežģījumus. Taču mēs akcentējam darbu tieši ar šāda tipa ātrumkārbām. Jāatzīst, ka ”klasiskās” automātiskās ātrumkārbas, īpaši jaunām automašīnām, arī kļūst aizvien sarežģītākas, jo tiek aprīkotas ar ļoti komplicētām elektroniskām vadības iekārtām. Tāpēc mēs lielu uzmanību veltām diagnostiskām iekārtām un mūsu speciālistu pastāvīgai apmācībai. Mēs ne vien veicam ātrumkārbu mehānisko un hidraulisko daļu remontu, bet mums ir arī plašs iespēju spektrs ātrumkārbu elektronisko vadības bloku programmēšanā un remontdarbos. "
+tab3 = "Mūsu padoms"
+tab3Content = "Automātisko ātrumkārbu remonts parasti ir salīdzinoši dārgs. Tāpēc pirms Jūs nododat savu automašīnu kādā autoservisā, pārliecinieties, ka meistari, kam Jūs vēlaties atstāt savu ”mīluli”, tiešām ir ieguvuši īstu profesionāļu reputāciju. Mēs negribam apgalvot, ka mēs esam paši labākie savā jomā - Latvijā ir vairāki ļoti augsta līmeņa uzņēmumi. Taču ir arī tādi uzņēmumi, kas tikai uzskata, ka prot labot automātiskās ātrumkārbas. Tāpēc šajā jomā ir svarīgi ne vien kaut ko vēlēties, bet arī ir nepieciešama pieredze, resursi un prasme rīkoties atbildīgi. Paturiet prātā, ka skaisti runāt pa tālruni un labi paveikt savu darbu ne vienmēr ir viens un tas pats. Tāpēc, ja internetā Jūs atrodat kādu, kas Jums apgalvo, ka bez problēmām Jums palīdzēs, padomājiet par to, kas Jūs personiski pārliecina, ka pēc tam Jums nenāksies nožēlot savu izvēli. Mūsu skatījumā labākā reklāma ir to cilvēku rekomendācijas, kuru automašīnām līdzīgi remontdarbi jau ir veikti."
++++

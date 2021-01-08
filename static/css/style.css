@@ -9771,3 +9771,8 @@ img.logo {
     padding-right: 20px;
     height: auto;
 }
+
+span.spacer {
+    width: 10em;
+    display: block;
+}
