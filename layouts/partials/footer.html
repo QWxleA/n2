@@ -14,7 +14,7 @@
           </div>
           <div class="col-md-6 col-lg">
             <div class="ftco-footer-widget mb-4 ml-md-5">
-              <h2 class="ftco-heading-2">Services</h2>
+              <h2 class="ftco-heading-2">{{ i18n "services" }}</h2>
               <ul class="list-unstyled">
                 <li><a href="#" class="py-1 d-block"><span class="fa fa-check mr-3"></span>Oil Change</a></li>
                 <li><a href="#" class="py-1 d-block"><span class="fa fa-check mr-3"></span>Batteries</a></li>
@@ -26,7 +26,7 @@
           </div>
           <div class="col-md-6 col-lg">
             <div class="ftco-footer-widget mb-4">
-                <h2 class="ftco-heading-2">Contact information</h2>
+                <h2 class="ftco-heading-2">{{ i18n "contact" }}</h2>
                 <div class="block-23 mb-3">
                   <ul>
                     <li><span class="icon fa fa-map-marker"></span><a href="{{ $.Site.Params.addressLink }}" target="_blank"><span class="text">{{ $.Site.Params.address }}</span></a></li>
@@ -38,17 +38,17 @@
           </div>
           <div class="col-md-6 col-lg">
              <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Business Hours</h2>
+              <h2 class="ftco-heading-2">{{ i18n "business" }}</h2>
               <div class="opening-hours">
-                <h4>Opening Days:</h4>
+                <h4>{{ i18n "opening" }}:</h4>
                 <p class="pl-3">
-                    <span>Monday – Friday : 9am to 20 pm</span>
-                    <span>Saturday : 9am to 17 pm</span>
+                    <span>{{ i18n "mofri" }}</span>
+                    <span>{{ i18n "weekend" }}</span>
                 </p>
-                <h4>Vacations:</h4>
+                <h4>{{ i18n "vacations" }}:</h4>
                 <p class="pl-3">
-                    <span>All Sunday Days</span>
-                    <span>All Official Holidays</span>
+                    <span>{{ i18n "sundays" }}</span>
+                    <span>{{ i18n "holidays" }}</span>
                 </p>
               </div>
             </div>

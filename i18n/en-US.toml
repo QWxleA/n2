@@ -12,6 +12,8 @@ other = "Diagnostics"
 other = "Transmissions"
 [about]
 other = "About"
+[aboutus]
+other = "About"
 [aboutsub]
 other = "Also about us"
 [contact]
@@ -20,6 +22,14 @@ other = "Contact Information"
 other = "Business hours"
 [opening]
 other = "Opening days"
+[mofri]
+other = "Monday – Friday : 9am to 20 pm"
+[weekend]
+other = "Saturday : 9am to 17 pm"
+[sundays]
+other = "All Sundays"
+[holidays]
+other = "All Official Holidays"
 [vacations]
 other = "Vacations"
 [copyright]
@@ -36,3 +46,5 @@ other = "Project completed"
 other = "Happy Customers"
 [award]
 other = "Award Winning"
+[menu]
+other = "Menu"

@@ -1,0 +1,42 @@
+[home]
+other = "Home"
+[address]
+other = "Address"
+[realAddress]
+other = "Krustpils iela 50a, Rīgā"
+[call]
+other = "Call us"
+[diagnostics]
+other = "Diagnostics"
+[transmissions]
+other = "Transmissions"
+[about]
+other = "About"
+[aboutus]
+other = "About us"
+[aboutsub]
+other = "Also about us"
+[contact]
+other = "Contact Information"
+[business]
+other = "Business hours"
+[opening]
+other = "Opening days"
+[vacations]
+other = "Vacations"
+[copyright]
+other = "Copyright ©2021 All rights reserved"
+[testimonies]
+other = "Testimonies"
+[feedback]
+other = "Happy Clients & Feedbacks"
+[experience]
+other = "Years of Experienced"
+[completed]
+other = "Project completed"
+[happy]
+other = "Happy Customers"
+[award]
+other = "Award Winning"
+[menu]
+other = "Меню"
