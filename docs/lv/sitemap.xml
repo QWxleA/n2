@@ -52,6 +52,31 @@
   </url>
   
   <url>
+    <loc>https://qwxlea.github.io/n2/lv/transmissions/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://qwxlea.github.io/n2/ru/transmissions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qwxlea.github.io/n2/transmissions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="est"
+                href="https://qwxlea.github.io/n2/est/transmissions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="lv"
+                href="https://qwxlea.github.io/n2/lv/transmissions/"
+                />
+  </url>
+  
+  <url>
     <loc>https://qwxlea.github.io/n2/lv/diagnostics/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -77,28 +102,8 @@
   </url>
   
   <url>
-    <loc>https://qwxlea.github.io/n2/lv/transmissions/</loc>
+    <loc>https://qwxlea.github.io/n2/lv/repairs/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://qwxlea.github.io/n2/ru/transmissions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://qwxlea.github.io/n2/transmissions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="est"
-                href="https://qwxlea.github.io/n2/est/transmissions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="lv"
-                href="https://qwxlea.github.io/n2/lv/transmissions/"
-                />
   </url>
   
   <url>

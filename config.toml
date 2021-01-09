@@ -37,7 +37,8 @@ defaultContentLanguage = "en"
     phone = "+371 29485790"
     addressLink = "https://ul.waze.com/ul?place=EkNLcnVzdHBpbHMgaWVsYSA1MCwgTGF0Z2FsZXMgcHJpZWvFoXBpbHPEk3RhLCBSxKtnYSwgTFYtMTA1NywgTGF0dmlhIjASLgoUChIJm3_5OmzS7kYRQXaymzU9gf0QMioUChIJvejiZw3S7kYRhQh_MB5kovU&ll=56.90550650%2C24.21599450&navigate=yes"
 
-    #socialShare = ["twitter", "facebook", "whatsapp", "email"]
+#socialShare = ["twitter", "facebook", "whatsapp", "email"]
+socialShare = ["email"]
 
 [social]
   facebook              = "example"

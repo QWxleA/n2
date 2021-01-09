@@ -1,22 +1,21 @@
 +++
-title = "Обслуживание трансмиссии"
+title = "Apkope"
 layout = "simple"
 date = "2014-04-09"
 menu = "main"
 name = "Transmissions"
 weight = 10
+more= "Automātisko ātrumkārbu apkope"
 +++
-Некоторые считают, что обслуживание трансмиссии –это лишь замена масла и фильтра  в ней. Это не совсем так. В обслуживание входит комплекс работ, после которых ваша трансмиссия с большой долей вероятности, ещё должна определённое время хорошо поработать.
+Daži uzskata, ka automātiskās ātrumkārbas apkope sevī ietver tikai eļļas un filtra maiņu. Tas nav gluži tā. Apkopē ietilpst vesels darbu komplekss, pēc kuriem jūsu automašīnas ātrumkārba spēs labi darboties, iespējams, ievērojami ilgāk nekā paredzējis ražotājs.
+Jāņem vērā, ka ātrumkārbai, līdzīgi kā jebkuram automašīnas mehānismam, ir ražotāja paredzēts darbības laiks. Un tad, kad automašīnas nolietojums tuvojas šim virtuālajam kritiskajam punktam (pieņemsim 250 000 km), ir ļoti grūti paredzēt, vai pēc eļļas maiņas ātrumkārba kalpos vēl nākamos 50 000 km, un vēl jo vairāk grūti to garantēt. Jebkurai eļļai piemīt arī attīrošas īpašības, tāpēc ir jārēķinās ar to, ka pēc eļļas maiņas notiks gadu gaitā ātrumkārbā uzkrājušos netīrumu un lakas noskalošana, un šīs daļiņas nokļūs atpakaļ transmisijas sistēmā, kas savukārt var piegružot vadības hidraulisko bloku, filtrus, spiediena sensorus un daudz ko citu.
+Tāpēc ātrumkārbas apkope pirmām kārtām sevī ietver vienošanos ar klientu par to, cik liela apmēra eļļas maiņu veikt. Pastāv, piemēram, daļēja eļļas maiņa (tā ir ātrumkārbas ražotāja reglamentētā eļļas maiņa ar nosacījumu, ka ir veikta regulāra ātrumkārbas apkope). Otrs variants — pilnīga eļļas maiņa. Tā ir nepieciešama, ja ātrumkārba ilgstoši nav kopta, ja eļļa, to vizuāli pārbaudot, izrādās ļoti netīra vai ja eļļā tiek konstatēti nevēlami piemaisījumi, piemēram, antifrīzs. Tad, protams, ir nepieciešams novērst problēmu, kuras dēļ antifrīzs nonācis ātrumkārbā.
 
-Дело в том, что у трансмиссии, как и у любого другого механизма в автомобиле, есть определённый ресурс работы. И когда пробег автомобиля приближается к этой виртуальной критической точке (скажем 250 000км) очень сложно предугадать и уж тем более гарантировать, что после замены масла, трансмиссия пройдёт ещё свои следующие 50 000 км. Любое новое масло обладает моющими свойствами, поэтому после замены масла, нужно учитывать, что отложения грязи и лака, которые с годами накопились в трансмиссии, будут отмываться и попадать обратно в систему, что чревато засорением гидравлического блока управления, фильтров, датчиков давления и многого другого.
+Šādu maiņu var piedāvāt ne visi autoservisi, jo tam nepieciešams īpašs, ļoti dārgs stends un liels skaits adapteru, kas piemēroti dažādiem ātrumkārbu modeļiem.
 
-Поэтому обслуживание трансмиссии , подразумевает прежде всего определение и согласование с клиентом, какого вида замену необходимо делать. Есть, так называемая частичная замена (это регламентная замена, предусмотренная заводом изготовителем трансмиссии, учитывая, что трансмиссия регулярно проходила обслуживание). Второй вариант-это полная замена масла. Она требуется, если трансмиссия в течение долгого времени не обслуживалась, если масло визуально очень грязное или если в масле присутствуют инородные компоненты, например антифриз. Тогда конечно требуется ещё и устранение проблемы из-за чего антифриз попал в трансмиссию.
+Jāņem arī vēra, ka pilnīga eļļas nomaiņa maksā ievērojami dārgāk, jo tas sevī ietver sistēmas skalošanu, un tāpēc ir neizbēgams lielāks eļļas patēriņš. Tāpēc mēs rekomendējam neveikt pilnīgu eļļas nomaiņu, ja tam nav īpašas vajadzības. Taču, ja klients uzstāj, mēs neatteiksim viņa lūgumam, bet mēs tomēr gribētu palīdzēt Jums ietaupīt Jūsu līdzekļus, jo kā jau minējām, eļļas maiņa nesniedz pilnīgu garantiju, ja automašīnai ir liels nobraukums. Un, visticamāk, būs ļoti žēl, ja pēc pilnīgas eļļas maiņas, kas ir dārgāka, pēc neilga laika jūsu ātrumkārba tomēr salūzīs… Izrādīsies, ka līdzekļu ieguldījums pilnīgā eļļas maiņā būs bijis veltīgs.
+Otrkārt, apkope sevī ietver arī nogulsnējumu analīzi, piemēram, ar īpašu magnētu palīdzību. Noteiktu daļiņu klātbūtne palīdz saprast, kas tieši ātrumkārbā ir nolietojies un cik ilgi šie mehānismi vēl var kalpot. Šāda informācija automašīnas īpašniekam var būt ļoti noderīga.
 
-Такую замену могут предложить далеко не все мастерские, потому, что для этого необходим специальный дорогостоящий стенд и большое количество переходников под разные модели трансмиссий.
+Un treškārt, apkope sevī ietver atsevišķu parametru elektronisko iestatīšanu, piemēram, runa ir par eļļas oksidāciju, braukšanas intervālu līdz nākamajai maiņai, adaptācijas parametrus, ja nepieciešams.
 
-Стоит также отметить, что полная замена масла стоит намного дороже, так как это включает промывание системы и соответственно предполагает большой расход нового масла. Поэтому мы рекомендуем не делать полной замены масла, если в этом нет реальной необходимости. Но если клиент настаивает, мы отказываться не будем, просто мы хотим по возможности помочь сэкономить ваши средства, ведь как уже говорили, замена масла ничего не гарантирует при больших пробегах автомобиля. И наверное будет очень обидно, если после дорогостоящей, полной замены масла, через небольшое время трансмиссия, всё-таки сломается…. Тогда какой смысл в таких вложениях?
-
-Во вторых обслуживание подразумевает анализ отложений в поддоне коробки передач или на специальных магнитах, расположенных в поддоне, либо на сливной пробке. По наличию частиц, можно примерно понять, что конкретно изношено в трансмиссии, и сколько примерно эти механизмы еще могут проработать. Это очень полезная информация для владельца авто.
-И в-третьих, обслуживание включает электронную настройку некоторых параметров, таких как, окисление масла, интервал пробега до следующей замены, адаптационных значений, если это необходимо!
-
-Наши наблюдения: если регулярно, каждые 40-50 тыс. км. делать обслуживание  трансмиссии, это может продлить её срок службы на 100-150 тыс. км.
+Mūsu novērojumi: ja regulāri, ik pēc 40-50 tūkstošiem km veikt ātrumkārbas apkopi, tās darbības laiks var tikt pagarināts vēl par 100-150 tūkstošiem km.
