@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Vittrans.lv</title>
-    <link>https://qwxlea.github.io/n2/</link>
+    <link>https://qwxlea.tk/n2/</link>
     <description>Recent content in Home on Vittrans.lv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://qwxlea.github.io/n2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://qwxlea.tk/n2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Services</title>
-      <link>https://qwxlea.github.io/n2/services/</link>
+      <link>https://qwxlea.tk/n2/services/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://qwxlea.github.io/n2/services/</guid>
+      <guid>https://qwxlea.tk/n2/services/</guid>
       <description>Как известно из медицины, именно правильная диагностика заболевания является ключом к выздоровлению пациента. В ремонте автоматической трансмиссии, именно правильная и профессиональная диагностика, помогает точно выявить источник проблемы и решить её.
 Довольно часто к нам обращаются клиенты с жалобой на неправильную работу коробки передач. Насмотревшись видео в интернете, либо наслушавшись «диванных» специалистов, такие клиенты делятся на 2 группы. Одни считают, что нужно срочно поменять масло и что-то на компьютере запрограммировать, другие сразу готовы к большим затратам, уверенные, что необходим серьёзный ремонт.</description>
     </item>
     
     <item>
       <title>Диагностика</title>
-      <link>https://qwxlea.github.io/n2/diagnostics/</link>
+      <link>https://qwxlea.tk/n2/diagnostics/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://qwxlea.github.io/n2/diagnostics/</guid>
+      <guid>https://qwxlea.tk/n2/diagnostics/</guid>
       <description>Как известно из медицины, именно правильная диагностика заболевания является ключом к выздоровлению пациента. В ремонте автоматической трансмиссии, именно правильная и профессиональная диагностика, помогает точно выявить источник проблемы и решить её.
 Довольно часто к нам обращаются клиенты с жалобой на неправильную работу коробки передач. Насмотревшись видео в интернете, либо наслушавшись «диванных» специалистов, такие клиенты делятся на 2 группы. Одни считают, что нужно срочно поменять масло и что-то на компьютере запрограммировать, другие сразу готовы к большим затратам, уверенные, что необходим серьёзный ремонт.</description>
     </item>
     
     <item>
       <title>Обслуживание трансмиссии</title>
-      <link>https://qwxlea.github.io/n2/transmissions/</link>
+      <link>https://qwxlea.tk/n2/transmissions/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://qwxlea.github.io/n2/transmissions/</guid>
+      <guid>https://qwxlea.tk/n2/transmissions/</guid>
       <description>Некоторые считают, что обслуживание трансмиссии –это лишь замена масла и фильтра в ней. Это не совсем так. В обслуживание входит комплекс работ, после которых ваша трансмиссия с большой долей вероятности, ещё должна определённое время хорошо поработать.
 Дело в том, что у трансмиссии, как и у любого другого механизма в автомобиле, есть определённый ресурс работы. И когда пробег автомобиля приближается к этой виртуальной критической точке (скажем 250 000км) очень сложно предугадать и уж тем более гарантировать, что после замены масла, трансмиссия пройдёт ещё свои следующие 50 000 км.</description>
     </item>
     
     <item>
       <title>О нас</title>
-      <link>https://qwxlea.github.io/n2/about/</link>
+      <link>https://qwxlea.tk/n2/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://qwxlea.github.io/n2/about/</guid>
+      <guid>https://qwxlea.tk/n2/about/</guid>
       <description>Поэтому качественная диагностика, это не просто подключение какого-нибудь диагностического устройства, которое сейчас есть практически в каждом сервисе. Это глубокий анализ, на основании опыта, а также умения не только прочитать записанные в системе ошибки, но и знать какие параметры должны быть в разных составляющих систем управления, как коробкой передач, так и других систем. Также, очень часто необходима тестовая поездка, вместе с подключенным диагностическим прибором.</description>
     </item>
     
     <item>
       <title>Guide de syntaxe de Markdown</title>
-      <link>https://qwxlea.github.io/n2/blog/markdown-syntax.fr/</link>
+      <link>https://qwxlea.tk/n2/blog/markdown-syntax.fr/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://qwxlea.github.io/n2/blog/markdown-syntax.fr/</guid>
+      <guid>https://qwxlea.tk/n2/blog/markdown-syntax.fr/</guid>
       <description>&lt;p&gt;Cet article propose un exemple de syntaxe de base de Markdown pouvant être utilisée dans les fichiers de contenu Hugo. Il indique également si les éléments HTML de base sont décorés avec CSS dans un thème Hugo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://qwxlea.github.io/n2/blog/markdown-syntax/</link>
+      <link>https://qwxlea.tk/n2/blog/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://qwxlea.github.io/n2/blog/markdown-syntax/</guid>
+      <guid>https://qwxlea.tk/n2/blog/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Rich Content</title>
-      <link>https://qwxlea.github.io/n2/blog/rich-content/</link>
+      <link>https://qwxlea.tk/n2/blog/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://qwxlea.github.io/n2/blog/rich-content/</guid>
+      <guid>https://qwxlea.tk/n2/blog/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://qwxlea.github.io/n2/blog/placeholder-text/</link>
+      <link>https://qwxlea.tk/n2/blog/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://qwxlea.github.io/n2/blog/placeholder-text/</guid>
+      <guid>https://qwxlea.tk/n2/blog/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
 pectora summo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Emoji Support</title>
-      <link>https://qwxlea.github.io/n2/blog/emoji-support.fr/</link>
+      <link>https://qwxlea.tk/n2/blog/emoji-support.fr/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://qwxlea.github.io/n2/blog/emoji-support.fr/</guid>
+      <guid>https://qwxlea.tk/n2/blog/emoji-support.fr/</guid>
       <description>Emoji peut être activé dans un projet Hugo de plusieurs manières.
 La fonction [emojify] (https://gohugo.io/functions/emojify/) peut être appelée directement dans les modèles ou [Inline Shortcodes] (https://gohugo.io/templates/shortcode-templates/#inline- codes courts).
 Pour activer globalement emoji, définissez enableEmoji sur true dans la [configuration] de votre site (https://gohugo.io/getting-started/configuration/), puis vous pourrez taper des codes abrégés emoji directement dans les fichiers de contenu; par exemple.
@@ -97,19 +97,19 @@ Le [aide-mémoire Emoji] (http://www.emoji-cheat-sheet.com/) est une référence
     
     <item>
       <title>Emoji Support</title>
-      <link>https://qwxlea.github.io/n2/blog/emoji-support/</link>
+      <link>https://qwxlea.tk/n2/blog/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://qwxlea.github.io/n2/blog/emoji-support/</guid>
+      <guid>https://qwxlea.tk/n2/blog/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Contato</title>
-      <link>https://qwxlea.github.io/n2/contact/_index.br/</link>
+      <link>https://qwxlea.tk/n2/contact/_index.br/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://qwxlea.github.io/n2/contact/_index.br/</guid>
+      <guid>https://qwxlea.tk/n2/contact/_index.br/</guid>
       <description></description>
     </item>
     
